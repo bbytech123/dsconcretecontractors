@@ -1,13 +1,16 @@
-D&S Concrete Contractors Website
+D&S Concrete Contractors Website v2
 
-Upload index.html, styles.css, script.js, and your project photos to the root of the GitHub repository.
+This version includes:
+- A real project photo in the homepage hero/header
+- Improved custom SVG service icons
+- Four real project photos in Recent Projects
+- Responsive mobile layout
 
-PHOTO SETUP:
-Add the desired hero/project images to the repository, then replace the placeholder backgrounds in styles.css with:
-.hero { background-image: url('hero.jpg'); }
-.p1 { background-image: url('project1.jpg'); }
-etc.
+Upload ALL files in this folder to the root of the GitHub repository and replace the existing index.html/styles.css/script.js.
 
-Contact information included:
-(830) 401-4660
-J.Dominguez@DSConcreteContractors.net
+Included images:
+hero.jpg
+project-bridge-1.jpg
+project-bridge-2.jpg
+project-path.jpg
+project-utility.jpg
